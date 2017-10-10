@@ -1,0 +1,4 @@
+- [diff `fit` `fit_transform`](https://datascience.stackexchange.com/questions/12321/difference-between-fit-and-fit-transform-in-scikit-learn-models)
+- [Pipeline](http://scikit-learn.org/stable/modules/pipeline.html)
+  - [PCA and logistic regression](http://scikit-learn.org/stable/auto_examples/plot_digits_pipe.html#sphx-glr-auto-examples-plot-digits-pipe-py)
+- [Model Evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html)
