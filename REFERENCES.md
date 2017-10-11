@@ -2,3 +2,4 @@
 - [Pipeline](http://scikit-learn.org/stable/modules/pipeline.html)
   - [PCA and logistic regression](http://scikit-learn.org/stable/auto_examples/plot_digits_pipe.html#sphx-glr-auto-examples-plot-digits-pipe-py)
 - [Model Evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html)
+- [logspace hyper parameters](https://www.quora.com/Why-does-one-sample-the-log-space-when-searching-for-good-Hyper-Parameters-for-Machine-Learning)
